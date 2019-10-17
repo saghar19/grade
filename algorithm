@@ -1,0 +1,11 @@
+grade 1=A
+grade 2=B
+grade 3=C
+Average
+Average=(A+B=C)/3
+if (Average>=60){
+print=pass
+}
+if(Average<=60){
+print=faile
+}
